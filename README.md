@@ -1,6 +1,6 @@
 # unity-raytracing
 
-Manual implementation of raytracing (before Unity 2019.3 support)
+Manual implementation of raytracing (pre Unity 2019.3)
 
 ![img](http://ryanwebb.com/images/raytrace.jpg)
 
